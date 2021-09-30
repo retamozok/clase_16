@@ -1,0 +1,214 @@
+.body {background-color: #2d1017
+}
+
+.divtitulo {background-color: #6B2737;
+            font-family: 'Sofia', 'cursive';
+            color: rgb(219, 107, 107);
+            font-size: 100%;
+            text-align: center;
+            text-shadow: #000 0px 3px 5px
+}
+
+
+.h2 {color: rgb(221, 216, 139);
+        font-size: 14px;
+}
+
+.parrafo1 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #ffffff;
+        font-size: 14px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        text-shadow: #000 0px 3px 5px;
+        border-width: 3px;
+        border-style: solid;
+        border-color: rgb(221, 216, 139);
+        border-radius: 7px;
+}
+
+.parrafo1:hover {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #ffffff;
+        font-size: 14px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        text-shadow: #000 0px 3px 3px;
+        border-width: 3px;
+        border-style:solid;
+        border-color: rgb(221, 216, 139);
+        border-radius: 7px;
+        box-shadow: #ddd 0px 3px 3px;
+}
+
+
+.parrafo2 {border-width: 3px;
+        border-style: solid;
+        border-color: rgb(221, 216, 139);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 14px;
+        text-shadow: #000 0px 3px 5px;
+        text-align: center;
+        color: white;
+        border-radius: 7px;
+
+}
+
+.parrafo2:hover {border-width: 3px;
+        border-style: solid;
+        border-color: rgb(221, 216, 139);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 14px;
+        text-shadow: #000 0px 3px 3px;
+        text-align: center;
+        color: white;
+        border-radius: 7px;
+        box-shadow: #ddd 0px 3px 3px;
+
+}
+
+
+.titulovinos {background-color: rgb(221, 216, 139);
+        background-size: 100%;
+        font-family: 'Sofia', 'cursive';
+        font-size: 24px;
+        color: #000;
+        text-align: center; 
+}
+
+.vinos {background-color: #6B2737;
+        background-size: 100%;
+        font-size: 14px;
+        font-family: 'Sofia', 'cursive';
+        color: #ddd;
+        margin-bottom: 10px;
+        text-align: center;
+        text-shadow: #000 0px 3px 3px;        
+}
+
+.vinos:hover {background-color: #6B2737;
+        background-size: 100%;
+        font-size: 14px;
+        font-family: 'Sofia', 'cursive';
+        color: #ddd;
+        margin-bottom: 10px;
+        text-align: center;
+        text-shadow: #000 0px 3px 3px;        
+}
+
+.borde-nv {border-width: 1px;
+        border-color: rgb(221, 216, 139);
+        border-style: solid;
+        border-radius: 7px;
+}
+
+.borde-nv:hover {border-width: 2px;
+        border-color: rgb(221, 216, 139);
+        border-style: solid;
+        border-radius: 7px;
+        box-shadow: #ddd 0px 3px 3px;
+
+}
+
+
+.h1contacto {background-color: rgb(221, 216, 139);
+            background-size: 100%;
+            font-family: 'Sofia', 'cursive';
+            font-size: 24px;
+            color: #000;
+            text-align: center;         
+}
+
+@media (max-width: 360px) {
+       .h1contacto 
+       {background-color: rgb(221, 216, 139);
+        background-size: 100%;
+        font-family: 'Sofia', 'cursive';
+        font-size: 20px;
+        color: #000;
+        text-align: center;         
+ }
+}
+
+
+
+.h2contacto {background-color: rgb(29, 11, 41);
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #ddd;
+            font-size: 16px;
+            text-align: center;
+}
+
+@media (max-width: 768px) {
+      .h2contacto
+      {background-color: rgb(29, 11, 41);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #ddd;
+        font-size: 18px;
+        text-align: center;
+}
+
+@media (max-width: 768px) {
+        .imgvinocontacto 
+        {display:none;
+        
+        }
+}
+
+
+
+}
+
+.headercontacto {background-color: #6B2737;
+                background-size: 100%;
+                font-size: 16px;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                color: #ddd;
+                margin-bottom: 10px;
+                
+}
+
+.infocontacto {text-shadow: black 0px 3px 5px;
+              text-align: center;
+}
+
+
+@media (max-width: 768px) {
+        .infocontacto 
+        {text-shadow: black 0px 3px 5px;
+        text-align: start;
+        font-size: 16px;
+
+ }
+}
+
+.vinocontacto {border-width: 1px;
+            border-color: rgb(241, 201, 114);
+            border-style: solid;
+            border-radius: 7px;
+            margin-bottom: 10px;
+}
+
+
+.creditos {background-color: #2d1017;
+        background-size: 100%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 18px;
+        color: #ffffff;
+        text-shadow: #000 0px 3px 5px;
+        text-align: center;
+}
+
+.nosotros {background-color: #2d1017;
+        background-size: 100%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 16px;
+        color:#ffffff;
+        text-shadow: #000 0px 3px 5px;
+}
+
+
+.footer {background-color: #6B2737;
+    background-size: 100%;
+    text-align: center;
+    color:#ddd
+}
+
